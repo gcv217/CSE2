@@ -38,6 +38,6 @@ if ((A>0) && (A<12)){
 else{
     System.out.println("You did not enter an int between 1 and 12");
 }
-    }
-}
+    }//end method
+}//end class
     
