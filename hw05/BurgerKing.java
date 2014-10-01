@@ -205,6 +205,6 @@ myScanner = new Scanner (System.in);
  		System.out.println("You did not enter any of B, b, S, s, F, or f.");
  		return;
 }
-}
-}
+}//end class
+}//end program
  			
